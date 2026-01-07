@@ -1,6 +1,6 @@
 # UAS_Pemrograman-Mobile-2
 
-# Aplikasi Kasir (Point of Sale)
+## Aplikasi Kasir (Point of Sale)
 ## 📖 Latar Belakang
 Di era digital saat ini, banyak usaha kecil seperti warung, toko kelontong, dan UMKM
 masih melakukan pencatatan transaksi secara manual.
