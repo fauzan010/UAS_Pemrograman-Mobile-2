@@ -110,15 +110,59 @@ Berikut beberapa tampilan (screenshot) dari aplikasi WorldBike yang telah saya k
     Menampilkan logo dan identitas aplikasi WorldBike sebagai pembuka sebelum pengguna masuk ke aplikasi.
    <img src="Screenshot/Splashscreen.jpg" width="200">
    
-3. Register
+2. Register
    Halaman pendaftaran akun untuk pengguna baru dengan mengisi data agar dapat menggunakan seluruh fitur aplikasi WorldBike.
    <img src="Screenshot/Register.jpg" width="200">
    
 4. Login
-5. s
-6. s
-7. 
-  
-8. s
-9. s
-10. 
+   Halaman untuk masuk ke aplikasi menggunakan akun yang sudah terdaftar agar pengguna dapat mengakses fitur WorldBike.
+   <img src="Screenshot/Login.jpg" width="200">
+   
+6. Beranda
+   Menampilkan halaman utama yang berisi informasi ringkas, kategori sepeda, dan akses cepat ke fitur utama WorldBike.
+   <img src="Screenshot/Beranda.jpg" width="200">
+   
+7. Detail Kategori
+   Menampilkan daftar sepeda berdasarkan kategori yang dipilih beserta informasi singkat setiap produk.
+   <img src="Screenshot/Detail_kategori.jpg" width="200">
+
+9. Tracking Sepeda
+   Mencatat aktivitas bersepeda pengguna meliputi jarak tempuh, durasi, dan estimasi kalori yang terbakar.
+   <img src="Screenshot/Tracking_sepeda.jpg" width="200">
+   
+11. Marketplace
+    Menyediakan halaman belanja sepeda dan aksesoris yang dapat dipilih langsung oleh pengguna.
+    <img src="Screenshot/Marketplace.jpg" width="200">
+   
+13. Keranjang
+    Menampilkan daftar produk yang dipilih pengguna sebelum melanjutkan ke proses pembayaran.
+    <img src="Screenshot/Keranjang.jpg" width="200">
+    
+15. Checkout
+    Digunakan untuk menyelesaikan proses pembelian dengan menampilkan ringkasan pesanan dan konfirmasi transaksi.
+    <img src="Screenshot/Checkout.jpg" width="200">
+    
+17. Profil
+    Menampilkan informasi akun pengguna serta riwayat aktivitas dan transaksi.
+    <img src="Screenshot/Profil.jpg" width="200">
+    
+19. Edit Profil
+    Digunakan untuk memperbarui data pribadi pengguna seperti nama, email, dan informasi lainnya.
+    <img src="Screenshot/Edit_profil.jpg" width="200">
+    
+21. Dashboard Admin
+    Menampilkan ringkasan data aplikasi untuk membantu admin memantau aktivitas sistem.
+    <img src="Screenshot/Dashboard_admin.jpg" width="200">
+    
+23. Tambah Produk
+    Digunakan oleh admin untuk menambahkan data produk sepeda atau aksesoris ke dalam aplikasi.
+    <img src="Screenshot/Tambah_produk.jpg" width="200">
+    
+25. Kelola Produk
+    Memungkinkan admin untuk melihat, mengubah, dan menghapus data produk yang tersedia.
+    <img src="Screenshot/Beranda.jpg" width="200">
+    
+27. Laporan Transaksi
+    Menampilkan data transaksi pengguna sebagai bahan pemantauan dan evaluasi oleh admin.
+    <img src="Screenshot/Laporan_transaksi.jpg" width="200">
+    
