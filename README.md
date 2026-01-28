@@ -98,9 +98,9 @@ Melalui aplikasi WorldBike, saya berharap pengguna dapat lebih mudah mengenal, m
 
 ## 🎥 Demo Aplikasi
 
-Berikut merupakan video demo aplikasi WorldBike yang menampilkan alur penggunaan serta fitur-fitur utama yang telah dikembangkan.
+Berikut saya lampirkan link Google drive video demo aplikasi WorldBike yang menampilkan alur penggunaan serta fitur-fitur utama yang telah dikembangkan.
 
-*(Video demo aplikasi akan ditampilkan di bagian ini)*
+https://drive.google.com/drive/folders/1WUVMCEbVHxWP57-YMiD2X7C0hDexRpcb?usp=sharing
 
 ## 🖼️ Tampilan Aplikasi
 
