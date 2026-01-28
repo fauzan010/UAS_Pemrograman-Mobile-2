@@ -108,10 +108,10 @@ Berikut beberapa tampilan (screenshot) dari aplikasi WorldBike yang telah saya k
 
 1. Splashcreen
     Menampilkan logo dan identitas aplikasi WorldBike sebagai pembuka sebelum pengguna masuk ke aplikasi.
-   <img src="screenshot/Splashscreen.jpg" width="250">
+   <img src="Screenshot/Splashscreen.jpg" width="250">
 2. Register
    Halaman pendaftaran akun untuk pengguna baru dengan mengisi data agar dapat menggunakan seluruh fitur aplikasi WorldBike.
-   <img src="screenshot/Register.jpg" width="250">
+   <img src="Screenshot/Register.jpg" width="250">
 3. Login
 5. s
 6. s
