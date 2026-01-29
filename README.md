@@ -92,6 +92,7 @@ Pengembangan ini diharapkan dapat meningkatkan pengalaman pengguna serta memperl
 
 Pada proyek ini, saya memilih metode deployment dalam bentuk APK Android sesuai dengan opsi yang diberikan oleh dosen. Metode ini dipilih agar aplikasi dapat digunakan secara langsung pada perangkat Android dan memberikan pengalaman penggunaan yang lebih optimal sebagai aplikasi mobile.
 
+Berikut link Google Drive apk : https://drive.google.com/drive/folders/1WUVMCEbVHxWP57-YMiD2X7C0hDexRpcb?usp=sharing
 ## 🏁 Penutup
 
 Melalui aplikasi WorldBike, saya berharap pengguna dapat lebih mudah mengenal, memilih, dan menikmati aktivitas bersepeda. Aplikasi ini menjadi salah satu bentuk penerapan teknologi mobile dalam mendukung gaya hidup sehat, aktif, dan ramah lingkungan di era digital.
